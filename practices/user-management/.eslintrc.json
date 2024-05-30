@@ -1,0 +1,20 @@
+{
+  "extends": ["next/core-web-vitals", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": ["jest.config.mjs", "jest.setup.js"],
+      "rules": {
+        "quotes": ["error", "single"]
+      }
+    }
+  ]
+}
