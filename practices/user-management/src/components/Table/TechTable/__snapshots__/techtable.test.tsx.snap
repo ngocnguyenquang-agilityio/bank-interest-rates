@@ -1,0 +1,646 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TechTable Component Should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <table
+        class="w-full text-sm text-left text-gray-500"
+      >
+        <thead
+          class="text-xs text-gray-700 uppercase bg-gray-50"
+        >
+          <tr>
+            <th
+              class="px-6 py-3"
+              scope="col"
+            >
+              Name
+            </th>
+            <th
+              class="px-6 py-3"
+              scope="col"
+            >
+              Actions
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="bg-white"
+        >
+          <tr
+            class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+          >
+            <td
+              class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+            >
+              <div
+                class="flex items-center gap-3"
+              >
+                <img
+                  alt="HTML logo"
+                  class="rounded-full"
+                  data-nimg="1"
+                  decoding="async"
+                  height="28"
+                  loading="lazy"
+                  src="/_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=64&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=32&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=64&q=75 2x"
+                  style="color: transparent;"
+                  width="28"
+                />
+                <a
+                  class="hover:underline hover:cursor-pointer"
+                  href="/techstacks/1"
+                >
+                  HTML
+                </a>
+              </div>
+            </td>
+            <td
+              class="px-6 py-4"
+            >
+              <div
+                class="flex gap-3"
+              >
+                <a
+                  class="group rounded-md border p-2 hover:bg-blue-400"
+                  data-testid="edit-1"
+                  href="/techstacks/1"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </a>
+                <button
+                  class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                  data-testid="delete-1"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+          >
+            <td
+              class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+            >
+              <div
+                class="flex items-center gap-3"
+              >
+                <img
+                  alt="CSS logo"
+                  class="rounded-full"
+                  data-nimg="1"
+                  decoding="async"
+                  height="28"
+                  loading="lazy"
+                  src="/_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=64&q=75"
+                  srcset="/_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=32&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=64&q=75 2x"
+                  style="color: transparent;"
+                  width="28"
+                />
+                <a
+                  class="hover:underline hover:cursor-pointer"
+                  href="/techstacks/2"
+                >
+                  CSS
+                </a>
+              </div>
+            </td>
+            <td
+              class="px-6 py-4"
+            >
+              <div
+                class="flex gap-3"
+              >
+                <a
+                  class="group rounded-md border p-2 hover:bg-blue-400"
+                  data-testid="edit-2"
+                  href="/techstacks/2"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </a>
+                <button
+                  class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                  data-testid="delete-2"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr
+            class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+          >
+            <td
+              class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+            >
+              <div
+                class="flex items-center gap-3"
+              >
+                <img
+                  alt="Javascript logo"
+                  class="rounded-full"
+                  data-nimg="1"
+                  decoding="async"
+                  height="28"
+                  loading="lazy"
+                  src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
+                  style="color: transparent;"
+                  width="28"
+                />
+                <a
+                  class="hover:underline hover:cursor-pointer"
+                  href="/techstacks/3"
+                >
+                  Javascript
+                </a>
+              </div>
+            </td>
+            <td
+              class="px-6 py-4"
+            >
+              <div
+                class="flex gap-3"
+              >
+                <a
+                  class="group rounded-md border p-2 hover:bg-blue-400"
+                  data-testid="edit-3"
+                  href="/techstacks/3"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </a>
+                <button
+                  class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                  data-testid="delete-3"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="w-5 group-hover:text-white"
+                    data-slot="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div
+        class="mt-3 flex w-full justify-center"
+      >
+        <nav
+          class="pt-4 flex justify-end"
+        >
+          <ul
+            class="inline-flex -space-x-px text-md gap-4"
+            data-testid="pagination"
+          >
+            <a
+              href="undefined?get=function+%28%29+%7B%0A++++++++return+fn.apply%28this%2C+arguments%29%3B%0A++++++%7D&page=1"
+            >
+              <button
+                class="flex items-center text-sm font-md bg-blue-500 text-white border border-blue-500 transition-colors hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:bg-blue-600 px-4 py-2 rounded-md"
+                value="1"
+              >
+                1
+              </button>
+            </a>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <table
+      class="w-full text-sm text-left text-gray-500"
+    >
+      <thead
+        class="text-xs text-gray-700 uppercase bg-gray-50"
+      >
+        <tr>
+          <th
+            class="px-6 py-3"
+            scope="col"
+          >
+            Name
+          </th>
+          <th
+            class="px-6 py-3"
+            scope="col"
+          >
+            Actions
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="bg-white"
+      >
+        <tr
+          class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+        >
+          <td
+            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+          >
+            <div
+              class="flex items-center gap-3"
+            >
+              <img
+                alt="HTML logo"
+                class="rounded-full"
+                data-nimg="1"
+                decoding="async"
+                height="28"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=64&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=32&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2FHTML5%2F512%2FHTML_Logo.png&w=64&q=75 2x"
+                style="color: transparent;"
+                width="28"
+              />
+              <a
+                class="hover:underline hover:cursor-pointer"
+                href="/techstacks/1"
+              >
+                HTML
+              </a>
+            </div>
+          </td>
+          <td
+            class="px-6 py-4"
+          >
+            <div
+              class="flex gap-3"
+            >
+              <a
+                class="group rounded-md border p-2 hover:bg-blue-400"
+                data-testid="edit-1"
+                href="/techstacks/1"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </a>
+              <button
+                class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                data-testid="delete-1"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </button>
+            </div>
+          </td>
+        </tr>
+        <tr
+          class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+        >
+          <td
+            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+          >
+            <div
+              class="flex items-center gap-3"
+            >
+              <img
+                alt="CSS logo"
+                class="rounded-full"
+                data-nimg="1"
+                decoding="async"
+                height="28"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=64&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=32&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-128.png&w=64&q=75 2x"
+                style="color: transparent;"
+                width="28"
+              />
+              <a
+                class="hover:underline hover:cursor-pointer"
+                href="/techstacks/2"
+              >
+                CSS
+              </a>
+            </div>
+          </td>
+          <td
+            class="px-6 py-4"
+          >
+            <div
+              class="flex gap-3"
+            >
+              <a
+                class="group rounded-md border p-2 hover:bg-blue-400"
+                data-testid="edit-2"
+                href="/techstacks/2"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </a>
+              <button
+                class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                data-testid="delete-2"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </button>
+            </div>
+          </td>
+        </tr>
+        <tr
+          class="odd:bg-white even:bg-gray-50 border-b hover:bg-gray-100"
+        >
+          <td
+            class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap"
+          >
+            <div
+              class="flex items-center gap-3"
+            >
+              <img
+                alt="Javascript logo"
+                class="rounded-full"
+                data-nimg="1"
+                decoding="async"
+                height="28"
+                loading="lazy"
+                src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
+                style="color: transparent;"
+                width="28"
+              />
+              <a
+                class="hover:underline hover:cursor-pointer"
+                href="/techstacks/3"
+              >
+                Javascript
+              </a>
+            </div>
+          </td>
+          <td
+            class="px-6 py-4"
+          >
+            <div
+              class="flex gap-3"
+            >
+              <a
+                class="group rounded-md border p-2 hover:bg-blue-400"
+                data-testid="edit-3"
+                href="/techstacks/3"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </a>
+              <button
+                class="flex items-center text-sm font-md bg-transparent text-gray-600 border transition-colors hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500 active:bg-gray-300 px-2 py-1 rounded-md group hover:bg-red-400"
+                data-testid="delete-3"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-5 group-hover:text-white"
+                  data-slot="icon"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </button>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div
+      class="mt-3 flex w-full justify-center"
+    >
+      <nav
+        class="pt-4 flex justify-end"
+      >
+        <ul
+          class="inline-flex -space-x-px text-md gap-4"
+          data-testid="pagination"
+        >
+          <a
+            href="undefined?get=function+%28%29+%7B%0A++++++++return+fn.apply%28this%2C+arguments%29%3B%0A++++++%7D&page=1"
+          >
+            <button
+              class="flex items-center text-sm font-md bg-blue-500 text-white border border-blue-500 transition-colors hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:bg-blue-600 px-4 py-2 rounded-md"
+              value="1"
+            >
+              1
+            </button>
+          </a>
+        </ul>
+      </nav>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
