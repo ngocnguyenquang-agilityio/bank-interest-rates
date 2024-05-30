@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Component Should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <label
+        class="block mb-1.5 text-sm text-gray-400"
+        for="dropdown"
+      >
+        Select options
+      </label>
+      <div
+        class="mt-2 w-full rounded-lg placeholder-gray-400 border-none outline outline-1 outline-offset-1 outline-gray-500 false"
+        data-testid="select"
+      >
+        <div
+          class="bg-transparent w-full p-2"
+        >
+          <div
+            class="w-full py-2"
+          >
+            <span
+              class="border rounded-full bg-blue-400 p-2 mx-0.5 text-sm text-center text-white "
+            >
+              Typescript
+              <button
+                class="ml-2 pl-2 border-l-2 cursor-pointer disabled:cursor-not-allowed "
+                data-testid="select-4"
+              >
+                X
+              </button>
+            </span>
+            <span
+              class="border rounded-full bg-blue-400 p-2 mx-0.5 text-sm text-center text-white "
+            >
+              React
+              <button
+                class="ml-2 pl-2 border-l-2 cursor-pointer disabled:cursor-not-allowed "
+                data-testid="select-5"
+              >
+                X
+              </button>
+            </span>
+          </div>
+        </div>
+        <div
+          class="relative w-full focus:outline-2 focus:outline-blue-500 focus:border-none"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <label
+      class="block mb-1.5 text-sm text-gray-400"
+      for="dropdown"
+    >
+      Select options
+    </label>
+    <div
+      class="mt-2 w-full rounded-lg placeholder-gray-400 border-none outline outline-1 outline-offset-1 outline-gray-500 false"
+      data-testid="select"
+    >
+      <div
+        class="bg-transparent w-full p-2"
+      >
+        <div
+          class="w-full py-2"
+        >
+          <span
+            class="border rounded-full bg-blue-400 p-2 mx-0.5 text-sm text-center text-white "
+          >
+            Typescript
+            <button
+              class="ml-2 pl-2 border-l-2 cursor-pointer disabled:cursor-not-allowed "
+              data-testid="select-4"
+            >
+              X
+            </button>
+          </span>
+          <span
+            class="border rounded-full bg-blue-400 p-2 mx-0.5 text-sm text-center text-white "
+          >
+            React
+            <button
+              class="ml-2 pl-2 border-l-2 cursor-pointer disabled:cursor-not-allowed "
+              data-testid="select-5"
+            >
+              X
+            </button>
+          </span>
+        </div>
+      </div>
+      <div
+        class="relative w-full focus:outline-2 focus:outline-blue-500 focus:border-none"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
